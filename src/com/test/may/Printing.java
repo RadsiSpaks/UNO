@@ -129,7 +129,6 @@ public class Printing {
             iNum++;
 
             printCard(i);
-            // System.out.println("\n" + iNum + "\n");
             System.out.println(iNum);
         }
     }
